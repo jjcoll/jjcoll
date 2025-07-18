@@ -31,3 +31,5 @@ Serverless:
 ![Static Badge](https://img.shields.io/badge/supabase-grey?style=for-the-badge&logo=supabase&logoColor=%233ECF8E)
 ![Static Badge](https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase&logoColor=FFA611)
 ![Static Badge](https://img.shields.io/badge/modal-grey?style=for-the-badge&logo=modal)
+
+I'm currently open to freelance projects, collaborations, and part-time opportunities in software development.
