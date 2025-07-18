@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jjcoll/jjcoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jordi Coll, a software developer with a passion for solving real world challenges in the web application world. Currently I am studying in the Netherlands, and working on the side as a Software Developer at wesmile, I'm focused on building reliable applications that blend creativity with technical excellence.
