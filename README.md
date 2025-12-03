@@ -1,4 +1,4 @@
-I'm Jordi Coll, a software developer with a passion for solving real world challenges in the web application world. Currently I am studying in the Netherlands, and working on the side as a Software Developer at [wesmile](https://wesmilebooth.nl), I'm focused on building reliable applications that blend creativity with technical excellence.
+I'm Jordi Coll, I build things for the web. 
 
-check [my portfolio website](jjcoll.dev)
+check [collsoftware](collsoftware.com)
 
