@@ -1,4 +1,5 @@
 I'm Jordi Coll, I build things for the web. 
 
-check [coi](https://coi.so)
+Junior Backend engineering at @sendcloud 
+hustling on the side at [coi](https://coi.so)
 
